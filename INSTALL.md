@@ -1,17 +1,8 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+### [Monkeytype](https://monkeytype.com)
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. On the [Monkeytype](https://monkeytype.com) platform, navigate to Footer.
+2. Click on the Color Palette icon.
+3. In the search modal, search for the Dracula theme.
+4. Select the theme.
